@@ -2,6 +2,8 @@
 
 ## Project setup
 ```
+git clone https://github.com/codybarber/PlayOn.git
+cd PlayOn
 npm install
 ```
 
